@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Splay_Trees_Semestrovka.dir/objects.a
+C:\PROGRA~2\C__~1\MinGW\bin\ar.exe cr CMakeFiles\Splay_Trees_Semestrovka.dir/objects.a @CMakeFiles\Splay_Trees_Semestrovka.dir\objects1.rsp
+C:\PROGRA~2\C__~1\MinGW\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Splay_Trees_Semestrovka.dir/objects.a -Wl,--no-whole-archive  -o Splay_Trees_Semestrovka.exe -Wl,--out-implib,libSplay_Trees_Semestrovka.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Splay_Trees_Semestrovka.dir\linklibs.rsp

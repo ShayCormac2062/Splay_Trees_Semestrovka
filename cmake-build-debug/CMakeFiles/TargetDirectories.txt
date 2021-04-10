@@ -1,0 +1,3 @@
+C:/ITISJava/CLionProjects/Splay_Trees_Semestrovka/cmake-build-debug/CMakeFiles/Splay_Trees_Semestrovka.dir
+C:/ITISJava/CLionProjects/Splay_Trees_Semestrovka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ITISJava/CLionProjects/Splay_Trees_Semestrovka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
